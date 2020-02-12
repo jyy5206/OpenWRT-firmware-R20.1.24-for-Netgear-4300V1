@@ -6,7 +6,7 @@ Compiled on 2020.02.12
 
 Compiled from https://github.com/coolsnowwolf/lede
 
-Simple version with ShadowSocksR Plus+, Autoreboot, Firewall, Turbo ACC only.
+Simple version with ShadowSocksR Plus+, Autoreboot, Firewall, and Turbo ACC only.
 
 Simple-obfs function is included under ShadowSocks New Version.
 
