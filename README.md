@@ -23,4 +23,4 @@ Default username: root
 Default password: password
 
 
-Special thanks to the contribution from Mr. Lean & all other coders! => https://github.com/coolsnowwolf/lede
+Special thanks to Mr. Lean & all other experts! => https://github.com/coolsnowwolf/lede
