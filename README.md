@@ -8,7 +8,7 @@ Compiled from https://github.com/coolsnowwolf/lede
 
 Simple version with ShadowSocksR Plus+, Autoreboot, Firewall, and Turbo ACC only.
 
-*Simple-obfs function is included under ShadowSocks New Version.*
+Simple-obfs function is included under ShadowSocks New Version.
 
 
 New installation: https://github.com/jyy5206/OpenWRT-firmware-R20.1.24-for-Netgear-4300V1/blob/master/openwrt-ar71xx-nand-wndr4300-ubi-factory.img?raw=true
